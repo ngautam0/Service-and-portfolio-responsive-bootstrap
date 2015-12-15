@@ -209,7 +209,8 @@ ul.nav-stacked ul.nav-stacked > li > a {
 #contactusforlgandmddevices,
 #contactusforsmalldevices {
     text-align: center;
-    /*padding: 20px;*/
+    padding-left: 2px;
+    padding-right: 2px;
 }
 #features p,
 .portfolio p {
