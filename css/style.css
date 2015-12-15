@@ -205,13 +205,14 @@ ul.nav-stacked ul.nav-stacked > li > a {
     }
 }
 #features,
-#portfolio,
+.portfolio,
 #contactusforlgandmddevices,
 #contactusforsmalldevices {
     text-align: center;
+    padding: 20px;
 }
 #features p,
-#portfolio p {
+.portfolio p {
     text-align: justify;
     margin: 10px;
 }
