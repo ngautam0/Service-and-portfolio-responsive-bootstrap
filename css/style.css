@@ -121,7 +121,6 @@ ul.nav-stacked ul.nav-stacked > li > a {
         float: left;
     }
     .image img {
-        width: 100%;
         height: 400px;
     }
     .image h1,
@@ -143,7 +142,7 @@ ul.nav-stacked ul.nav-stacked > li > a {
     }
     #myCarousel .item {
         height: 310px;
-        width: 100%;
+        /*width: 100%;*/
     }
     #slide1 {
         background: url('../images/carousel-small-01.jpg') top center no-repeat;
@@ -165,8 +164,8 @@ ul.nav-stacked ul.nav-stacked > li > a {
 
 @media (min-width: 1200px) {
     .image img {
-        width: 100%;
-        height: 100%;
+        /*width: 100%;*/
+        /*height: 100%;*/
     }
     .image h1,
     .image h2,
@@ -191,7 +190,7 @@ ul.nav-stacked ul.nav-stacked > li > a {
         letter-spacing: 5px;
     }
     #myCarousel .item {
-        width: 100%;
+        /*width: 100%;*/
         height: 700px;
     }
     #slide1 {
